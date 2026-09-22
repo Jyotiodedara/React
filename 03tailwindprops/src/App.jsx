@@ -4,10 +4,11 @@ import Card from './components/card'
 
 function App() {
   const [count, setCount] = useState(0)
-  let myObj = {
-    username: "khushi",
-    age: 21
-  }
+ //let myObj = {
+   // username: "khushi",
+   // age: 21
+ // }
+ // let using diff example
   let newArr = [1, 2, 3]
 
   return (
